@@ -1,0 +1,52 @@
+#summary Database notes (how it might be used)
+
+==Ingredient Questions==
+
+*PersonWithQuestion:*  Do you know how many types of vax in the childhood schedule do NOT have aluminum?
+
+*me:*  let me check...
+
+*PersonWithQuestion:*  I think rotavirus is one
+
+*me:*  No alum: RV, polio, flu, MMR, varicella, MCV (meningococcal)
+Might say Hib, too, since PedVaxHib has been recalled (per FDA website)...  2 out of 3 Hib vaccines have no alum
+
+*PersonWithQuestion:*  Thx!  Is Pediarix the highest with 850mcg?
+
+*me:*  Another way of looking at it is across ALL vaccines and ALL schedules, alum is found in approx 40% of vaccines<br><br>
+ 
+*PersonWithQuestion*  Or is it Pentacel?
+
+*me:*  Pediarix has 850 mcg of alum
+
+*PersonWithQuestion:*  That is DTaP, HepB and Hib?
+
+*me:*  No - DTaP, HepB and polio
+By doing individual shots of DTaP, HepB and polio, one can reduce alum exposure to 420 mcg
+But you'd need to request specific brands of vaccines (or else the number easily jumps up 50%)
+
+*PersonWithQuestion:*  Thx.  Will check in later
+
+*PersonWithQuestion:*  What's the range of Al dose?  With 850 being the highest.
+
+*me:*  125 in Prevnar
+you'll find a wide range in-between -- no clear/obvious pattern
+
+==Ingredient Stats==
+
+50.9% of the full CDC schedule contains formaldehyde<BR>
+29.8% of the full CDC schedule contains thimerosal<BR>
+40.4% of the full CDC schedule contains aluminum<BR>
+19.3% of the full CDC schedule contains polysorbate 80<BR>
+
+"contains" includes "trace" amounts - let me know if you think these
+kind of stats are interesting and, if so, what other ones you'd like
+to see.  I'm going to have all of this info in a database and we'll be
+able to get all kinds of fascinating data
+
+the more you can challenge me for data, the better our database will
+be.   A challenge might be something like showing the thimerosal
+numbers broken down into trace amounts and what "types" of
+vaccines tend to have thimerosal (type = flu, DTaP, etc)
+
+I like the thimerosal challenge piece.  Can it be applied to aluminum speciation and poly 80?
